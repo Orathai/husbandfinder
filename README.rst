@@ -12,6 +12,8 @@ References
 ----------
 
 * `https://developers.google.com/maps-engine/documentation/start <https://developers.google.com/maps-engine/documentation/start>`_
+* `Spark Java Framework <http://www.sparkjava.com/>`_
+* `Docker <https://www.docker.com/>`_
 
 
 Running as docker container
